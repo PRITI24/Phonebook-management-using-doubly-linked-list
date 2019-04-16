@@ -28,6 +28,17 @@ Doubly Linked List because while searching first element but the current status 
 2.Deletion O(n)
 3.Sorting O(n*Log n)
 
+# OPERATIONS IMPLEMENTED.............
+1)DELETE SAME NUMBER
+2)DELETE SAME NAME
+3)SEARCH
+4)DELETE CONATCT
+5)DISPLAY CONTACT-In sorted(bubble sort) display
+6)UPDATE DETAILS-A)NAME
+                 B)NUMBER
+                 C)G-MAIL
+7)INSERT CONTACT
+
 # OUTPUT:-In eclipse java
 
 **************                                PHONE BOOK                          ********************
