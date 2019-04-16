@@ -1,5 +1,5 @@
 # Phonebook-management-using-doubly-linked-list
-2nd Semester Computer Engineering Project
+3rd Semester Computer Engineering Project
 # MKSSS'S CUMMINS COLLEGE OF ENGINEERING FOR WOMEN
 
 # Taught data structures
